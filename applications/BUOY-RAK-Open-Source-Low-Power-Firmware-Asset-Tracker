@@ -1,0 +1,64 @@
+
+# Grant Application
+
+## Project Title
+**Open Source Buoy Asset Tracker**
+
+## Applicant Information
+- **Name**: Jameson Buffmire
+- **Organization (if applicable)**: BUOY-FISH, INC.  
+- **Email**: jameson@buoy  
+- **GitHub Username**: @jtbuffmire
+
+## Project Overview
+Deliver a robust low power firmware for general purpose RAK-based asset trackers. 
+
+## Problem Statement
+There currently is no widely available battery optimized firmware for RAK WISblocks. 
+Before I started prototyping GPS Buoys for buoy.fish, I was told that RAK based GPS trackers can operate autonomously in production environments for many months. 
+However, the first time I flashed the low power RAK RUI3 RAK19007+RAK4631-R GPS tracker, it died in just a few days on a fully charged battery. 
+Why? It turns out the RAK firmware needs significant customizaiton to fully realize it's low power potential. 
+I've since worked with firmware engineers from Lisbon to San Francisco to improve and optimize the RAK firmware. 
+We would like to collectively improve and document this work, to create a user-friendly firmware profile that can remain open source and can be used by any entrepreneur seeking to build an asset tracking service on the public Helium IoT Network.
+
+## Project Goals and Objectives
+
+
+## Proposed Solution
+
+
+### Workflow
+1. ** what would we do?**:
+
+
+2. **and here**:
+   - 
+
+3. **and in node-RED?**:
+
+And the 'why' again
+
+## And the impact 
+bla bla bla
+
+## Timeline and Milestones
+And these
+
+| Milestone | Description | Expected Completion Date |
+| --------- | ----------- | ------------------------ |
+| Milestone 1 | asdfasdf | Date |
+| Milestone 2 | asdfasdf | Date |
+| Milestone 3 | asdfasdf | Date |
+| Milestone 4 | asdfasdf | … |
+
+## Budget
+
+| Item | Cost |
+| ---- | ---- |
+| asdfasdf | $100 |
+| asdfasdf | $1,000 |
+| asdfasdf | $3,000 |
+| … | … |
+
+## Additional Information
+asdfasdf
